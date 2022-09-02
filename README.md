@@ -47,7 +47,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'MYArirangGothic';
+    font-family: 'MYYeongnamnu';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYYeongnamnu.eot');
