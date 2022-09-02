@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MYArirangGothic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirangGothic.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirangGothic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirangGothic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirangGothic.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirangGothic.ttf') format("truetype");
+    font-display: swap;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MYArirang';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirang.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirang.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirang.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirang.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYArirang.ttf') format("truetype");
+    font-display: swap;
+}

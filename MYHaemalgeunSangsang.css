@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MYHaemalgeunSangsang';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYHaemalgeunSangsang.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYHaemalgeunSangsang.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYHaemalgeunSangsang.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYHaemalgeunSangsang.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/miryang/MYHaemalgeunSangsang.ttf') format("truetype");
+    font-display: swap;
+}
